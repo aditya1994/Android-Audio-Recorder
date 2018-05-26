@@ -7,3 +7,5 @@ It's a basic level application having three button to record and then play back 
 
 Following article describes the development phase: https://adityarohilla.com/2018/04/11/audio-recorder/
 
+
+![alt text](https://therandomdeveloper.files.wordpress.com/2018/04/unnamed.png?w=300&h=300&zoom=2)
